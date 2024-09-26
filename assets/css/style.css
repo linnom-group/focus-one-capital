@@ -527,7 +527,7 @@ label {
 }
 
 ::selection {
-    background: var(--thm-primary);
+    background: #c79832;
     color: var(--thm-black);
     text-shadow: none;
 }
