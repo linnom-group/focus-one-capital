@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', function () {
         data.forEach(member => {
           // Create a new team member block
           const teamDiv = document.createElement('div');
-          teamDiv.classList.add('col-xl-4', 'col-lg-4', 'wow', 'animated', 'fadeInUp');
+          teamDiv.classList.add('col-xl-3', 'col-lg-3', 'wow', 'animated', 'fadeInUp');
           teamDiv.setAttribute('data-wow-delay', '0.1s');
           
           let socialLinksHTML = '';
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 </div>
               </div>
               <div class="team-one__single-content">
-                <h3><a href="${member.profileLink}">${member.name}</a></h3>
+                <h3><a href="#url">${member.name}</a></h3>
                 <p>${member.position}</p>
               </div>
             </div>

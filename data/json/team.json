@@ -25,6 +25,15 @@
       "socialLinks": {
         "facebook": "#"
       }
+    },
+    {
+      "name": "GIFT MALEKELE",
+      "position": "Head of Sales",
+      "image": "assets/img/team/team.png",
+      "profileLink": "team-details.html",
+      "socialLinks": {
+        "facebook": "#"
+      }
     }
   ]
   
