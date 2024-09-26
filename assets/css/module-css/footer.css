@@ -79,7 +79,7 @@
 }
 
 .footer-widget__about-inner .text-box p {
-    color: #abafb5;
+    color: #ffffff;
     line-height: 26px;
 }
 
@@ -89,7 +89,7 @@
 }
 
 .footer-widget__about-inner .number-box a {
-    color: var(--thm-primary);
+    color: white;
     font-weight: 500;
 }
 
@@ -130,7 +130,7 @@
 }
 
 .footer-social-link a:hover {
-    color: var(--thm-white);
+    color: #c79832;
 }
 
 .footer-social-link a+a {
@@ -168,7 +168,7 @@
 .footer-widget__links-box ul li a {
     position: relative;
     display: inline-block;
-    color: #abafb5;
+    color: #ffffff;
     font-size: 16px;
     line-height: 28px;
     font-weight: 400;
@@ -177,7 +177,7 @@
 }
 
 .footer-widget__links-box ul li a:hover {
-    color: var(--thm-primary);
+    color: #c79832;
     padding-left: 15px;
 }
 
@@ -225,7 +225,7 @@
 }
 
 .footer-widget__newsletter-text p {
-    color: #abafb5;
+    color: #ffffff;
 }
 
 .footer-widget__newsletter-form {
@@ -298,7 +298,7 @@
 }
 
 .footer-bottom__text p {
-    color: #bfbfbf;
+    color: #ffffff;
     font-weight: 500;
 }
 

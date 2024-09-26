@@ -456,7 +456,7 @@
     bottom: 0;
     right: 0;
     height: 2px;
-    background: var(--thm-primary);
+    background: #c79832;
     border-radius: 0px;
     transition: transform 700ms ease;
     transform: scale(0, 1);
@@ -472,7 +472,7 @@
 
 .navbar-wrap>ul>li.active>a,
 .navbar-wrap>ul>li:hover>a {
-    color: var(--thm-primary);
+    color: #c79832;
 }
 
 .main-menu .navigation li.menu-item-has-children .dropdown-btn {
