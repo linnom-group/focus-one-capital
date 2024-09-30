@@ -6,7 +6,7 @@
 .footer-one {
     position: relative;
     display: block;
-    background: var(--thm-black);
+    background: black;
     overflow: hidden;
     z-index: 10;
 }
