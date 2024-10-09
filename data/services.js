@@ -25,11 +25,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 <h2><a href="${service.link}">${service.title}</a></h2>
                 <p>${service.description}</p>
               </div>
-              <div class="btn-box">
-                <a href="architecture.html">EXPLORE SERVICE</a>
-              </div>
-            </div>
-          `;
+              </div>`;
           
           // Append the new service block to the container
           servicesContainer.appendChild(serviceDiv);

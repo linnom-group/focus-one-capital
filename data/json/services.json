@@ -1,19 +1,37 @@
 [
     {
       "title": "Remove default listings",
-      "description": "Our Remove Default Listings service is designed to help individuals and businesses remove negative credit listings from their credit reports, empowering them to take control of their financial reputation.",
+      "description": "Our team works to remove default listings from your credit report, improving your credit score and financial health. We negotiate with creditors and dispute inaccurate information to ensure your report reflects your true creditworthiness.",
       "icon": "icon-construction-machine",
       "image": "assets/img/service/service-v2-single-bg.jpg"
     },
     {
-      "title": "Make payment arrangements",
-      "description": "Our Remove Default Listings service is designed to help individuals and businesses remove negative credit listings from their credit reports, empowering them to take control of their financial reputation.",
+      "title": "Make Payment Arrangements",
+      "description": "Are you having difficulties with settling your debts? Our team helps negotiate payment plans with creditors, reducing financial stress and preventing further damage to your credit score. We work to find manageable solutions tailored to your needs.",
       "icon": "icon-construction-machine",
       "image": "assets/img/service/service-v2-single-bg.jpg"
     },
     {
       "title": "Rescind Admin and Debt Review Order",
-      "description": "Our Remove Default Listings service is designed to help individuals and businesses remove negative credit listings from their credit reports, empowering them to take control of their financial reputation.",
+      "description": "Our team guides you through the process on how to exit debt review and administration, ensuring a smooth transition and minimizing impact on your credit. We enable you to regain control over your finances.",
+      "icon": "icon-construction-machine",
+      "image": "assets/img/service/service-v2-single-bg.jpg"
+    },
+    {
+      "title": "Remove Judgements",
+      "description": "Remove judgement listings from your credit report and restore your financial reputation. Our team disputes and negotiate with creditors to clear your record.",
+      "icon": "icon-construction-machine",
+      "image": "assets/img/service/service-v2-single-bg.jpg"
+    },
+    {
+      "title": "Provide Credit Advice",
+      "description": "Receive expert guidance on credit management, budgeting, and financial planning. Our team will help you understand your report, identify areas for improvement, and develop strategies for long-term financial success.",
+      "icon": "icon-construction-machine",
+      "image": "assets/img/service/service-v2-single-bg.jpg"
+    },
+    {
+      "title": "Remove Prescribed Accounts",
+      "description": "Allow us to help remove outdated debts from your credit report. Our team identifies and disputes prescribed accounts, ensuring your report accurately reflects your current financial situation.",
       "icon": "icon-construction-machine",
       "image": "assets/img/service/service-v2-single-bg.jpg"
     }
